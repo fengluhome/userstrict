@@ -1,0 +1,9 @@
+E:\userstrict\useStrict\useStrict\bin\useStrict.dll.config
+E:\userstrict\useStrict\useStrict\bin\useStrict.dll
+E:\userstrict\useStrict\useStrict\bin\useStrict.pdb
+E:\userstrict\useStrict\useStrict\bin\useStrict.xml
+E:\userstrict\useStrict\useStrict\obj\Debug\useStrict.Resources.resources
+E:\userstrict\useStrict\useStrict\obj\Debug\useStrict.vbproj.GenerateResource.Cache
+E:\userstrict\useStrict\useStrict\obj\Debug\useStrict.dll
+E:\userstrict\useStrict\useStrict\obj\Debug\useStrict.xml
+E:\userstrict\useStrict\useStrict\obj\Debug\useStrict.pdb
